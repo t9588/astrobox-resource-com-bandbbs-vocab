@@ -1,0 +1,51 @@
+{
+  "item": {
+    "id": "com.bandbbs.vocab",
+    "restype": "quick_app",
+    "name": "环学记忆古诗单词",
+    "description": "环学记忆是一款自己导入手环的背单词与古诗阅读快应用。支持单词卡片复习（熟记/不熟标记）、学习统计、词表浏览与古诗阅读，大字体深色界面，适合在手环上快速记诵。",
+    "preview": [
+      "media/huanxue-preview-menu.png",
+      "media/huanxue-preview-study.png",
+      "media/huanxue-preview-start.png"
+    ],
+    "icon": "media/huanxue-icon.png",
+    "cover": "media/huanxue-cover-banner.png",
+    "author": [
+      {
+        "name": "t9588",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "环学记忆同步器下载",
+      "url": "https://pan.quark.cn/s/566867f0a509",
+      "icon": "globe-simple"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "3.0.1",
+      "file_name": "downloads/com.bandbbs.vocab.release.3.0.1.rpk",
+      "versionCode": 2026
+    },
+    "xmb10nfc": {
+      "version": "3.0.1",
+      "file_name": "downloads/com.bandbbs.vocab.release.3.0.1.rpk",
+      "versionCode": 2026
+    },
+    "xmb11": {
+      "version": "3.0.1",
+      "file_name": "downloads/com.bandbbs.vocab.release.3.0.1.rpk",
+      "versionCode": 2026
+    },
+    "xmb11nfc": {
+      "version": "3.0.1",
+      "file_name": "downloads/com.bandbbs.vocab.release.3.0.1.rpk",
+      "versionCode": 2026
+    }
+  },
+  "ext": {}
+}
